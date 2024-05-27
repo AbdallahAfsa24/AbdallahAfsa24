@@ -2,7 +2,7 @@
 - 👀 I’m interested in programming.
 - 🌱 I’m currently learning Software Engineering.
 - 💞️ I’m looking to collaborate on software projects.
-- 📫 You can reach me linkedin at "linkedin.com/in/abdallah-a-79b63718b"
+- 📫 You can reach me linkedin at "linkedin.com/in/abdallahafsa"
 - 😄 Pronouns: Grit, perseverance and growth mindset.
 - ⚡ Fun fact: ...
 
